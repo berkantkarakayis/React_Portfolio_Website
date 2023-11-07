@@ -1,0 +1,61 @@
+/*========================================*\
+*		 REACT-VITE		  *
+\*========================================*/
+
+LINK: 
+https://vitejs.dev/guide/
+
+INSTALL:
+npm create vite@latest
+
+
+/*========================================*\
+*		    ICONS		  *
+\*========================================*/
+
+LINK: 
+https://react-icons.github.io/react-icons/
+
+INSTALL:
+npm install react-icons --save
+
+
+/*========================================*\
+*		FRAMER MOTION		  *
+\*========================================*/
+
+LINK: 
+https://www.npmjs.com/package/framer-motion
+
+INSTALL:
+npm i framer-motion
+
+/*========================================*\
+*		  SWIPER		  *
+\*========================================*/
+
+LINK: 
+https://swiperjs.com/get-started
+
+INSTALL:
+npm install swiper
+
+/*========================================*\
+*		   AXIOS		  *
+\*========================================*/
+
+LINK: 
+https://axios-http.com/docs/intro
+
+INSTALL:
+npm install axios
+
+/*========================================*\
+*		   SCROLL		  *
+\*========================================*/
+
+LINK: 
+https://www.npmjs.com/package/react-scroll
+
+INSTALL:
+npm i react-scroll
